@@ -613,9 +613,9 @@
                 <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
                 <dict>
                     <key>AAPL,ig-platform-id</key>
-                    <data>AAAWGQ==</data>
+                    <data>AAAWWQ==</data>
                     <key>device-id</key>
-                    <data>FhkAAA==</data>
+                    <data>ElkAAA==</data>
                     <key>framebuffer-con0-alldata</key>
                     <data>AAAIAAIAAACYAAAA</data>
                     <key>framebuffer-con0-enable</key>
@@ -1601,7 +1601,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C17715100000MHK1H</string>
+                <string>C02811405GUHWVPFB</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1613,11 +1613,11 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacBookPro13,1</string>
+                <string>MacBookPro14,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C17TK00000C1</string>
+                <string>C02WF00FHV29</string>
                 <key>SystemUUID</key>
-                <string>BDBBF1C8-0000-43EE-0000-2CBE7A7FF56A</string>
+                <string>5B10596E-CE10-46E3-9DD1-B6D8226E7544</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
